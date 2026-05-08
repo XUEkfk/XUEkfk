@@ -11,6 +11,11 @@ AKA 阿薛
 <img width="1240" height="470" alt="下雨天與向日葵" src="https://github.com/user-attachments/assets/dbb4ab91-d20c-4d1b-83ce-2402b0286360" />
 
 ---
+## 🛠 Skills
+
+![Unity](https://img.shields.io/badge/Unity-111827?style=for-the-badge&logo=unity&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-2563eb?style=for-the-badge&logo=c-sharp&logoColor=white)
+![2D Art](https://img.shields.io/badge/2D_ART-dc2626?style=for-the-badge)
 
 ## 🎮 Developer Status
 
@@ -20,12 +25,6 @@ AKA 阿薛
     width="95%"
   />
 </p>
-
-## 🛠 Skills
-
-![Unity](https://img.shields.io/badge/Unity-111827?style=for-the-badge&logo=unity&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-2563eb?style=for-the-badge&logo=c-sharp&logoColor=white)
-![2D Art](https://img.shields.io/badge/2D_ART-dc2626?style=for-the-badge)
 
 ---
 
