@@ -1,8 +1,6 @@
 # 薛格繪圖中
 ### AKA 阿薛
 
-> Unity Indie Developer 🌻
-
 ---
 
 ## 🌻 關於我
@@ -15,19 +13,17 @@
 ## 🎮 Developer Status
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xuekfk&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  
-  <img src="https://streak-stats.demolab.com?user=xuekfk&theme=tokyonight&hide_border=true" height="170"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=xuekfk&theme=tokyonight_duo&hide_border=true&border_radius=12" 
+    width="95%"
+  />
 </p>
-
 ---
 
 ## 🛠 Skills
 
 ![Unity](https://img.shields.io/badge/Unity-111827?style=for-the-badge&logo=unity&logoColor=white)
-
 ![CSharp](https://img.shields.io/badge/C%23-2563eb?style=for-the-badge&logo=c-sharp&logoColor=white)
-
 ![2D Art](https://img.shields.io/badge/2D_ART-dc2626?style=for-the-badge)
 
 ---
