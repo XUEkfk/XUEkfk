@@ -8,13 +8,12 @@ AKA 阿薛
 喜愛向日葵的獨立開發者，專攻程式與 2D 美術。  
 主要使用 Unity 進行開發，比起 2D 專案更擅長 3D 專案與角色互動設計。
 
-.
-   .
-      ...
-   🌧
-      .
-   .
-<img width="1240" height="470" alt="下雨天與向日葵" src="https://github.com/user-attachments/assets/dbb4ab91-d20c-4d1b-83ce-2402b0286360" />
+<p align="center">
+  <img src="https://dummyimage.com/1240x470/ffffff/ffffff.png" width="80%"/>
+  <br/>
+  <img width="80%" 
+       src="https://github.com/user-attachments/assets/dbb4ab91-d20c-4d1b-83ce-2402b0286360" />
+</p>
 
 ---
 
