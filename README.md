@@ -14,11 +14,10 @@
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=xuekfk&theme=tokyonight_duo&hide_border=true&border_radius=12" 
+    src="https://streak-stats.demolab.com?user=xuekfk&hide_border=true&border_radius=12&background=0D1117&ring=FF2E63&fire=FF2E63&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" 
     width="95%"
   />
 </p>
----
 
 ## 🛠 Skills
 
