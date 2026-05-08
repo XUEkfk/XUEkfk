@@ -4,11 +4,9 @@
 
 ## 🌻 關於我
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2E63&width=435&lines=喜愛向日葵的獨立開發者，專攻程式與 2D 美術。;主要使用 Unity 進行開發;比起 2D 專案更擅長 3D 專案與角色互動設計)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2E63&width=500&lines=Unity+獨立開發者;向日葵愛好者;專注2D美術+%26+程式開發;3D+角色互動系統開發中)](https://git.io/typing-svg)
 
-<-!喜愛向日葵的獨立開發者，專攻程式與 2D 美術。  
-主要使用 Unity 進行開發，比起 2D 專案更擅長 3D 專案與角色互動設計。
-->
+
 ---
 
 ## 🎮 Developer Status
