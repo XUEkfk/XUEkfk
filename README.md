@@ -6,7 +6,7 @@ ___
 喜愛向日葵的獨立開發者，專攻程式與 2D 美術。  
 主要使用 Unity 進行開發，比起 2D 專案更擅長 3D 專案與角色互動設計。
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=xuekfk)](https://git.io/streak-stats)
 
 ## 🛠 技能
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
