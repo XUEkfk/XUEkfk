@@ -1,10 +1,9 @@
-# 薛格繪圖中
-### AKA 阿薛
+# 薛格繪圖中 ### AKA 阿薛
 
 ---
 
 ## 🌻 關於我
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 喜愛向日葵的獨立開發者，專攻程式與 2D 美術。  
 主要使用 Unity 進行開發，比起 2D 專案更擅長 3D 專案與角色互動設計。
 
