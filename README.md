@@ -7,6 +7,7 @@ AKA 阿薛
 
 喜愛向日葵的獨立開發者，專攻程式與 2D 美術。  
 主要使用 Unity 進行開發，比起 2D 專案更擅長 3D 專案與角色互動設計。
+
 ![Unity](https://img.shields.io/badge/Unity-111827?style=for-the-badge&logo=unity&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-2563eb?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![2D Art](https://img.shields.io/badge/2D_ART-dc2626?style=for-the-badge)
