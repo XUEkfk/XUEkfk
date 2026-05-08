@@ -17,7 +17,7 @@ AKA 阿薛
 ![CSharp](https://img.shields.io/badge/C%23-2563eb?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![2D Art](https://img.shields.io/badge/2D_ART-dc2626?style=for-the-badge)
 
-===
+<br>
 ## 🎮 Developer Status
 
 <p align="center">
