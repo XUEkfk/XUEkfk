@@ -1,5 +1,8 @@
-## Hi there 👋
-阿薛美化中
+## 薛格繪圖中
+AKA 阿薛
+--
+關於我?
+喜愛向日葵的獨立開發者，專攻程式與2D美術，主要使用Unity進行開發，比起2D專案更擅長3D專案
 <!--
 **XUEkfk/XUEkfk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
