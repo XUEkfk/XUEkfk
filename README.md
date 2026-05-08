@@ -10,14 +10,6 @@
 喜愛向日葵的獨立開發者，專攻程式與 2D 美術。  
 主要使用 Unity 進行開發，比起 2D 專案更擅長 3D 專案與角色互動設計。
 
-喜歡研究：
-
-- Character Interaction
-- Stylized Lighting
-- Multiplayer Gameplay
-- Game Feel
-- Emotional Visual Design
-
 ---
 
 ## 🎮 Developer Status
@@ -38,8 +30,6 @@
 
 ![2D Art](https://img.shields.io/badge/2D_ART-dc2626?style=for-the-badge)
 
-![Game Design](https://img.shields.io/badge/Game_Design-7c3aed?style=for-the-badge)
-
 ---
 
 ## 📫 Contact
@@ -50,6 +40,10 @@
 
 ---
 
-## ⚡ 有趣的事實
-我喜歡研究角色動作、互動設計與光影氣氛，  
-有時候會一邊修 Bug 一邊想：「一個 Bug 是 Bug，一堆 Bug 能 Work。」
+## ⚡ Debug Log
+
+```csharp
+public void Debug()
+{
+    Debug.Log("一個 Bug 是 Bug，一堆 Bug 能 Work");
+}
