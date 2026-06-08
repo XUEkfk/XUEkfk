@@ -29,20 +29,9 @@ AKA 阿薛
 ---
 
 ## 📫 Contact
-<p align="center">
-  <a href="mailto:xinyixue.work@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-  </a>
-
-  <a href="https://www.instagram.com/k0yn4c2h_xue/">
-    <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
-  </a>
-
-  <a href="https://www.youtube.com/@xueO.O">
-    <img src="https://cdn.simpleicons.org/youtube/FF0000" height="50"/>
-  </a>
-</p>
-
+ - Email : xinyixue.work@gmail.com
+ - Instagram : [@k0yn4c2h_xue](https://www.instagram.com/k0yn4c2h_xue/)
+ - YouTube : [@xueO.O](https://www.youtube.com/@xueO.O)
 ---
 
 ## ⚡ Debug Log
