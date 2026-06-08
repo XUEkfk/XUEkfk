@@ -43,3 +43,6 @@ public void Debug()
 {
     Debug.Log("一個 Bug 是 Bug，一堆 Bug 能 Work");
 }
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuekfk&layout=compact&theme=tokyonight)
